@@ -1,0 +1,12 @@
+# macOS and Jupyter
+.DS_Store
+.ipynb_checkpoints/
+
+# Data: download from Kaggle (see README)
+archive/
+
+# Personal learning files, kept out of the repo
+Untitled.ipynb
+ch1-2 practice.ipynb
+decision-log.md
+Untitled Folder/
